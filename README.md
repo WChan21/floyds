@@ -23,18 +23,18 @@ Please complete this document
 ### Running the scripts ###
 1. Run the Iterative Floyd-Warshall Algorithm
 
-python src/iterative/iterative_floyd.py
+    python src/iterative/iterative_floyd.py
 
 2. Run the Recursive Floyd-Warshall Algorithm
 
-python src/recursion/recursive_floyd.py
+    python src/recursion/recursive_floyd.py
 
 3. Run Unit Tests
 
-python src/tests/unittests.py
+    python src/tests/unittests.py
 
 4. Run Performance Tests
-python src/tests/performance_test.py
+    python src/tests/performance_test.py
 
 ### Requirements ### 
 
